@@ -6,4 +6,4 @@ Germany beef breakfast: https://www.allrecipes.com/recipes/2426/breakfast-and-br
 
 
 
-allrecipes.com api
+api: https://www.allrecipes.com 
